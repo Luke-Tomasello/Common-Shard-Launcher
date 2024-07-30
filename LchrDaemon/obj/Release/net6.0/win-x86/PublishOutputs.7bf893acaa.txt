@@ -1,0 +1,2 @@
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\bin\Release\net6.0\publish\win-x86\LchrDaemon.pdb
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\bin\Release\net6.0\publish\win-x86\LchrDaemon.exe

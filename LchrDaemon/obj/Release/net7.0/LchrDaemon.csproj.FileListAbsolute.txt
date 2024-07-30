@@ -1,0 +1,15 @@
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\bin\Release\net7.0\LchrDaemon.exe
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\bin\Release\net7.0\LchrDaemon.deps.json
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\bin\Release\net7.0\LchrDaemon.runtimeconfig.json
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\bin\Release\net7.0\LchrDaemon.dll
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\bin\Release\net7.0\LchrDaemon.pdb
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\obj\Release\net7.0\LchrDaemon.csproj.AssemblyReference.cache
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\obj\Release\net7.0\LchrDaemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\obj\Release\net7.0\LchrDaemon.AssemblyInfoInputs.cache
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\obj\Release\net7.0\LchrDaemon.AssemblyInfo.cs
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\obj\Release\net7.0\LchrDaemon.csproj.CoreCompileInputs.cache
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\obj\Release\net7.0\LchrDaemon.dll
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\obj\Release\net7.0\refint\LchrDaemon.dll
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\obj\Release\net7.0\LchrDaemon.pdb
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\obj\Release\net7.0\LchrDaemon.genruntimeconfig.cache
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\LchrDaemon\obj\Release\net7.0\ref\LchrDaemon.dll

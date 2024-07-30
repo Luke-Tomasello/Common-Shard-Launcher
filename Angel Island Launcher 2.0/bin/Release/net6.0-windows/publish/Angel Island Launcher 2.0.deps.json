@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Angel Island Launcher 2.0/1.0.0": {
+        "runtime": {
+          "Angel Island Launcher 2.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Angel Island Launcher 2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

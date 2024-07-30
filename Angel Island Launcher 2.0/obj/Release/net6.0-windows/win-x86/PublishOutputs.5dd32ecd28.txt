@@ -1,0 +1,2 @@
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\Angel Island Launcher 2.0\bin\Release\net6.0-windows\publish\win-x86\Angel Island Launcher 2.0.pdb
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0\Angel Island Launcher 2.0\bin\Release\net6.0-windows\publish\win-x86\Angel Island Launcher 2.0.exe

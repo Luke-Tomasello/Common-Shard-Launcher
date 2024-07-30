@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LchrDaemon": {
+      "commandName": "Project",
+      "commandLineArgs": "?C:\\Program Files (x86)\\Angel Island\\Angel Island Launcher\\Angel Island Launcher 2.0.exe? ?/qn /i \"temp\\Angel Island Launcher.msi\"?"
+    }
+  }
+}

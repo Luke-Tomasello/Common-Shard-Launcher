@@ -1,0 +1,18 @@
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\bin\Release\net6.0-windows\Angel Island Launcher 2.0.exe
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\bin\Release\net6.0-windows\Angel Island Launcher 2.0.deps.json
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\bin\Release\net6.0-windows\Angel Island Launcher 2.0.runtimeconfig.json
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\bin\Release\net6.0-windows\Angel Island Launcher 2.0.dll
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\bin\Release\net6.0-windows\Angel Island Launcher 2.0.pdb
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\obj\Release\net6.0-windows\Angel Island Launcher 2.0.csproj.AssemblyReference.cache
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\obj\Release\net6.0-windows\Angel_Island_Launcher_2._0.AILauncher.resources
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\obj\Release\net6.0-windows\Angel_Island_Launcher_2._0.Properties.Resources.resources
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\obj\Release\net6.0-windows\Angel Island Launcher 2.0.csproj.GenerateResource.cache
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\obj\Release\net6.0-windows\Angel Island Launcher 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\obj\Release\net6.0-windows\Angel Island Launcher 2.0.AssemblyInfoInputs.cache
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\obj\Release\net6.0-windows\Angel Island Launcher 2.0.AssemblyInfo.cs
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\obj\Release\net6.0-windows\Angel Island Launcher 2.0.csproj.CoreCompileInputs.cache
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\obj\Release\net6.0-windows\Angel Island Launcher 2.0.dll
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\obj\Release\net6.0-windows\refint\Angel Island Launcher 2.0.dll
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\obj\Release\net6.0-windows\Angel Island Launcher 2.0.pdb
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\obj\Release\net6.0-windows\Angel Island Launcher 2.0.genruntimeconfig.cache
+C:\Users\luket\Documents\Software\Development\Product\Src\Angel Island\Launcher 2.0.daemon\Angel Island Launcher 2.0\obj\Release\net6.0-windows\ref\Angel Island Launcher 2.0.dll
