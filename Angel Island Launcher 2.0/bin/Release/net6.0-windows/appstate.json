@@ -1,0 +1,49 @@
+{
+  "EnableUpdates": true,
+  "EnableAudio": true,
+  "UOVersion": 0,
+  "CUOVersion": 0,
+  "RazorVersion": 0,
+  "LastProfile": "Game-Master.net",
+  "Profiles": [
+    {
+      "Name": "Game-Master.net",
+      "ServerAddress": "uoangelisland.com",
+      "ServerPort": 2593,
+      "Username": null,
+      "Password": null,
+      "UseCUO": true,
+      "UseRazor": true,
+      "UODirectory": "UO Angel Island",
+      "CUODirectory": "ClassicUO",
+      "RazorDirectory": "RazorCE",
+      "ServerName": ""
+    },
+    {
+      "Name": "Angel Island",
+      "ServerAddress": "uoangelisland.com",
+      "ServerPort": 2593,
+      "Username": null,
+      "Password": null,
+      "UseCUO": true,
+      "UseRazor": true,
+      "UODirectory": "UO Angel Island",
+      "CUODirectory": "ClassicUO",
+      "RazorDirectory": "RazorCE",
+      "ServerName": "Angel Island"
+    },
+    {
+      "Name": "Siege Perilous",
+      "ServerAddress": "uoangelisland.com",
+      "ServerPort": 2593,
+      "Username": null,
+      "Password": null,
+      "UseCUO": true,
+      "UseRazor": true,
+      "UODirectory": "UO Angel Island",
+      "CUODirectory": "ClassicUO",
+      "RazorDirectory": "RazorCE",
+      "ServerName": "Siege Perilous"
+    }
+  ]
+}
